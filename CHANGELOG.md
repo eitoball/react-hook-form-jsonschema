@@ -8,7 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 - Update `peerDependencies` of `react-hook-form` to `^6.15.8 <7.0.0`
-- 
+
+### Added
+
+- List values in `enum` attribute on `useRadio`
 
 ## [0.2.0] - 2021-08-03
 
